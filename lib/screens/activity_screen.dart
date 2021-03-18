@@ -27,7 +27,7 @@ class ActivityScreen extends StatelessWidget {
                           onTap: () => Navigator.pop(context),
                           child: ImageIcon(
                             AssetImage('assets/arrow-back.png'),
-                            size: 30,
+                            size: 31,
                             color: Colors.black,
                           ),
                         ),
